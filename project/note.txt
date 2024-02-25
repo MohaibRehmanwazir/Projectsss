@@ -1,0 +1,14 @@
+MySqli 
+PDO 
+Object oriented ao standard PDO 
+PDO mean PHP Data  Object
+
+try and catch block use for exception handling or error handling 
+
+
+
+try {
+
+} catch($e) {
+
+}

@@ -1,0 +1,18 @@
+require 
+include 
+include_once 
+requre_once 
+
+try and catch block 
+use for error handling 
+
+CRUD 
+Create 
+Read 
+Update 
+Delete 
+
+SELECT 
+
+
+
